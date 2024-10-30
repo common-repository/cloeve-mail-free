@@ -1,0 +1,88 @@
+/*
+Name: Cloeve Mail Free Style
+*/
+
+.cloeve-color-bar-container {
+    padding:20px 15%;
+    width: 100%;
+}
+
+.cloeve-email-list-input-container{
+    display: flex;
+}
+
+.cloeve-success-container{
+    width: 100%;
+    border-radius: 8px;
+    text-align: center;
+    max-height: 0;
+    transition: all 1s;
+    overflow: hidden;
+}
+
+.cloeve-success-container h5{
+    color: black;
+}
+
+.cloeve-email-list-input{
+    border-radius: 5px 0 0 5px !important;
+    padding: 5px 10px 5px 10px !important;
+    flex: 1;
+}
+
+.cloeve-btn-subscribe{
+    border-radius: 0 5px 5px 0;
+    padding: 0 15px!important;
+    transition: all 0.5s;
+}
+
+.cloeve-btn-subscribe:hover {
+    font-size: 110%;
+}
+
+.cloeve-subscriber-container {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+/*Small devices (landscape phones, 576px and below)*/
+@media (max-width: 576px) {
+
+    .cloeve-color-bar-container {
+        padding:20px 5%;
+    }
+}
+
+/*Medium devices (tablets, 768px and below)*/
+@media (max-width: 768px) {
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+
+
+}
+
+/*Medium devices (tablets, 1000px and up)*/
+@media (min-width: 1000px) {
+
+}
+
+/*Large devices (desktops, 1024 and below)*/
+@media (max-width: 1024px) {
+
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
